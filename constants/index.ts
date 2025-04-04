@@ -19,7 +19,7 @@ export const Skill_data = [
   },
   {
     skill_name: "Đỗ Minh Tú",
-    Image: "/member/khabanh.png",
+    Image: "/member/dominhtu.png",
     width: 80,
     height: 80,
   },
