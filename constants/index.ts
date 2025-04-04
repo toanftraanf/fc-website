@@ -2,8 +2,8 @@ export const Skill_data = [
   {
     skill_name: "Mã Vĩnh Lộc",
     Image: "/member/mavinhloc.png",
-    width: 80,
-    height: 80,
+    width: 85,
+    height: 85,
   },
   {
     skill_name: "Nguyễn Thế Trung",
@@ -14,8 +14,8 @@ export const Skill_data = [
   {
     skill_name: "Trần Thế Toàn",
     Image: "/member/tranthetoan.png",
-    width: 65,
-    height: 65,
+    width: 80,
+    height: 80,
   },
   {
     skill_name: "Đỗ Minh Tú",
@@ -25,7 +25,7 @@ export const Skill_data = [
   },
   {
     skill_name: "Kiều Thanh Bình",
-    Image: "/member/khabanh.png",
+    Image: "/member/kieuthanhbinh.png",
     width: 80,
     height: 80,
   },
@@ -73,7 +73,7 @@ export const Skill_data = [
   },
   {
     skill_name: "Lê Hiếu",
-    Image: "/member/khabanh.png",
+    Image: "/member/lehieu.png",
     width: 80,
     height: 80,
   },
