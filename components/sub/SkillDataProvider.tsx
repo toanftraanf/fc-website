@@ -38,7 +38,7 @@ const SkillDataProvider = ({
       animate={inView ? "visible" : "hidden"}
       custom={index}
       transition={{ delay: index * animationDelay }}
-      className="flex flex-col items-center"
+      className="flex flex-col items-center pl-20 pr-20 pt-10"
     >
       <Image src={src} width={width} height={height} alt="skill image" />
       {skill_name && (
