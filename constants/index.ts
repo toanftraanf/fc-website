@@ -13,7 +13,7 @@ export const Skill_data = [
   },
   {
     skill_name: "Trần Thế Toàn",
-    Image: "/member/khabanh.png",
+    Image: "/member/tranthetoan.png",
     width: 65,
     height: 65,
   },
@@ -115,7 +115,7 @@ export const Skill_data = [
   },
   {
     skill_name: "ThanhMV",
-    Image: "/member/khabanh.png",
+    Image: "/member/thanhmv.png",
     width: 80,
     height: 80,
   },
